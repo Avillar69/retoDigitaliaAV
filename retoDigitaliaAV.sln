@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "retoDigitaliaAV", "retoDigitaliaAV.csproj", "{A9ACC8DC-33C0-4A82-BBE2-F1696BBAC6AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9ACC8DC-33C0-4A82-BBE2-F1696BBAC6AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9ACC8DC-33C0-4A82-BBE2-F1696BBAC6AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9ACC8DC-33C0-4A82-BBE2-F1696BBAC6AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9ACC8DC-33C0-4A82-BBE2-F1696BBAC6AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E4E5E6A-0A86-464F-AAF5-D13EBE9DA785}
+	EndGlobalSection
+EndGlobal
